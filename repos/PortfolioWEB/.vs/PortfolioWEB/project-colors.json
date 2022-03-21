@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e93c05ca-8b04-4ca8-ab09-ad3958d84e61": {
+      "ProjectGuid": "e93c05ca-8b04-4ca8-ab09-ad3958d84e61",
+      "DisplayName": "Portfolio -Ozan BASARAN",
+      "ColorIndex": 0
+    },
+    "193a31db-d920-4ccd-8925-a0fa0fb17d8d": {
+      "ProjectGuid": "193a31db-d920-4ccd-8925-a0fa0fb17d8d",
+      "DisplayName": "PortfolioWeb",
+      "ColorIndex": 1
+    },
+    "40bb7893-fdd0-4351-a3c0-2a1bd6b4a77c": {
+      "ProjectGuid": "40bb7893-fdd0-4351-a3c0-2a1bd6b4a77c",
+      "DisplayName": "Data",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "68357e77-40bb-4248-9a6f-68b545b59d20": {
+      "ProjectGuid": "68357e77-40bb-4248-9a6f-68b545b59d20",
+      "DisplayName": "PortfolioAPI",
+      "ColorIndex": 3
+    },
+    "8ec9f088-1ada-44b2-aa1d-506680ffb3e8": {
+      "ProjectGuid": "8ec9f088-1ada-44b2-aa1d-506680ffb3e8",
+      "DisplayName": "PortfolioAPIS",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

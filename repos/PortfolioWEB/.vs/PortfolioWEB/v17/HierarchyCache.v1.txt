@@ -1,0 +1,300 @@
+﻿++Solution 'PortfolioWEB' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:PortfolioWEB.sln
+++PortfolioAPIS
+i:{00000000-0000-0000-0000-000000000000}:PortfolioAPIS
+++Connected Services 
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>872
+++Application Insights
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>910
+++Microsoft identity platform
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>914
+++Secrets.json (Local)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>908
+++SQL Server Database (ConnectionStrings:EntityContext)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>912
+++Dependencies
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>871
+++Analyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:analyzers
+++Frameworks
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:frameworks
+++Packages
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:packages
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>895
+++FluentValidation (10.3.6)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>899
+++FluentValidation.AspNetCore (10.3.6)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>897
+++Microsoft.ApplicationInsights.AspNetCore (2.20.0)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>898
+++Microsoft.AspNet.WebApi.Core (5.2.7)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>900
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>901
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>894
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>902
+++Microsoft.Extensions.Logging.Debug (6.0.0)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>905
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.14.0)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>903
+++Microsoft.VisualStudio.Services.Client (16.170.0)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>896
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>904
+++Projects
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:projects
+++Properties
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\properties\
+++Controllers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\controllers\
+++CommentController.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\controllers\commentcontroller.cs
+++PostController.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\controllers\postcontroller.cs
+++TokenController.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\controllers\tokencontroller.cs
+++UserController.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\controllers\usercontroller.cs
+++Data
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\
+++Entities
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\entities\
+++Comment.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\entities\comment.cs
+++Entity.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\entities\entity.cs
+++Post.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\entities\post.cs
+++User.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\entities\user.cs
+++Enums
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\enums\
+++UserRoleEnum.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\enums\userroleenum.cs
+++Interfaces
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\interfaces\
+++EntityContext.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\interfaces\entitycontext.cs
+++IDifferenceableEntity.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\interfaces\idifferenceableentity.cs
+++IValidableEntity.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\data\interfaces\ivalidableentity.cs
+++DTOs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\
+++Comment
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\comment\
+++BaseCommentModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\comment\basecommentmodel.cs
+++CommentCreateModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\comment\commentcreatemodel.cs
+++CommentUpdateModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\comment\commentupdatemodel.cs
+++CommentViewModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\comment\commentviewmodel.cs
+++Post
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\post\
+++BasePostModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\post\basepostmodel.cs
+++PostCreateModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\post\postcreatemodel.cs
+++PostUpdateModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\post\postupdatemodel.cs
+++PostViewModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\post\postviewmodel.cs
+++Token
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\token\
+++AuthModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\token\authmodel.cs
+++User
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\user\
+++BaseUserModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\user\baseusermodel.cs
+++UserCreateModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\user\usercreatemodel.cs
+++UserUpdateModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\user\userupdatemodel.cs
+++UserViewModel.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dtos\user\userviewmodel.cs
+++Mappers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\mappers\
+++AutoMap.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\mappers\automap.cs
+++CommentMapper.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\mappers\commentmapper.cs
+++PostMapper.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\mappers\postmapper.cs
+++UserMapper.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\mappers\usermapper.cs
+++Migrations
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\migrations\
+++20220209144943_init.cs
+++EntityContextModelSnapshot.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\migrations\entitycontextmodelsnapshot.cs
+++Model
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\model\
+++ServiceResult.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\model\serviceresult.cs
+++Services
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\services\
+++CommentService.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\services\commentservice.cs
+++ICommentService.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\services\icommentservice.cs
+++IPostService.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\services\ipostservice.cs
+++IUserService.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\services\iuserservice.cs
+++PostService.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\services\postservice.cs
+++UserService.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\services\userservice.cs
+++Validators
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\
+++CommentValidator.cs
+++IUserValidator.cs
+++PostValidator.cs
+++UserValidator.cs
+++appsettings.json
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\appsettings.json
+++Dockerfile
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\dockerfile
+++libman.json
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\libman.json
+++Program.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\program.cs
+++Startup.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\startup.cs
+++Application Insights dependency is detected
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>911
+++Microsoft identity platform dependency is detected
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>915
+++Secrets.json (Local) dependency is detected
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>909
+++SQL Server Database dependency with connectionId 'ConnectionStrings:EntityContext' is detected
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:>913
+++MessagePackAnalyzer
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\microsoft.netcore.app
+++PortfolioWeb
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portoflioweb\bin\debug\netcoreapp6.0\portfolioweb.dll
+++launchSettings.json
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\properties\launchsettings.json
+++20220209144943_init.Designer.cs
+++appsettings.Development.json
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\appsettings.development.json
+++.dockerignore
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\.dockerignore
+++UserViewValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\userviewvalidator.cs
+++UserCreateValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\usercreatevalidator.cs
+++UserUpdateValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\userupdatevalidator.cs
+++Script Documents
+++VM5
+++chromewebdata
+++VM11
+++VM12
+++VM13
+++VM14
+++VM15
+++VM16
+++VM17
+++VM18
+++VM19
+++VM20
+++VM21
+++VM22
+++VM23
+++VM24
+++VM25
+++VM26
+++VM27
+++VM28
+++VM29
+++VM30
+++VM31
+++VM32
+++VM33
+++VM34
+++VM35
+++VM36
+++VM37
+++VM38
+++VM39
+++VM40
+++VM41
+++VM42
+++VM43
+++VM44
+++Class.cs
+++NewFolder
+++Installers
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\installers\
+++ServiceRegistration.cs
+++RegisterModelValidators.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\installers\registermodelvalidators.cs
+++IServiceRegistreation.cs
+++IServiceRegistration.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\installers\iserviceregistration.cs
+++ServiceRegistrationExtension.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\installers\serviceregistrationextension.cs
+++PostViewValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\postviewvalidator.cs
+++PostCreateValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\postcreatevalidator.cs
+++PostUpdateValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\postupdatevalidator.cs
+++CommentViewValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\commentviewvalidator.cs
+++CommentUpdateValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\commentupdatevalidator.cs
+++CommentCreateValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\commentcreatevalidator.cs
+++RegisterJwtAuthentication.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\installers\registerjwtauthentication.cs
+++Login
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\login\
+++UserLoginRequest.cs
+++AuthModelValidator.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\validators\authmodelvalidator.cs
+++20220318085226_Updated.cs
+++20220318085226_Updated.Designer.cs
+++20220318085444_initial.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\migrations\20220318085444_initial.cs
+++20220318085444_initial.Designer.cs
+i:{8ec9f088-1ada-44b2-aa1d-506680ffb3e8}:c:\users\ozan.basaran\source\repos\portfolioweb\portfolioapis\migrations\20220318085444_initial.designer.cs

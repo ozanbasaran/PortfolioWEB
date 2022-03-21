@@ -1,0 +1,6 @@
+C:\Users\ozan.basaran\source\repos\PortfolioWEB\PortoflioWeb\obj\Debug\netcoreapp6.0\PortoflioWeb.csproj.AssemblyReference.cache
+C:\Users\ozan.basaran\source\repos\PortfolioWEB\PortoflioWeb\obj\Debug\netcoreapp6.0\PortoflioWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozan.basaran\source\repos\PortfolioWEB\PortoflioWeb\obj\Debug\netcoreapp6.0\PortoflioWeb.AssemblyInfoInputs.cache
+C:\Users\ozan.basaran\source\repos\PortfolioWEB\PortoflioWeb\obj\Debug\netcoreapp6.0\PortoflioWeb.AssemblyInfo.cs
+C:\Users\ozan.basaran\source\repos\PortfolioWEB\PortoflioWeb\obj\Debug\netcoreapp6.0\PortoflioWeb.csproj.CoreCompileInputs.cache
+C:\Users\ozan.basaran\source\repos\PortfolioWEB\PortoflioWeb\obj\Debug\netcoreapp6.0\PortoflioWeb.MvcApplicationPartsAssemblyInfo.cache
