@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using PortfolioAPIS.DTOs.Comment;
 using PortfolioAPIS.Model;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace PortfolioAPIS.Controllers
 {
+    [Authorize(Roles = "*")]
     [Route("api/[controller]")]
     [ApiController]
 
@@ -21,7 +23,7 @@ namespace PortfolioAPIS.Controllers
         }
 
 
-
+        [AllowAnonymous]
         [HttpGet]
         [Route("get_comments")]
         public IList<CommentViewModel> GetComments()

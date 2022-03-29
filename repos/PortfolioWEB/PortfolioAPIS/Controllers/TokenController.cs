@@ -18,6 +18,7 @@ using RouteAttribute = Microsoft.AspNetCore.Mvc.RouteAttribute;
 
 namespace PortfolioAPIS.Controllers
 {
+    [AllowAnonymous]
     [Route("api/token")]
     [ApiController]
     public class TokenController : ControllerBase
@@ -29,7 +30,6 @@ namespace PortfolioAPIS.Controllers
             _configuration = config;
             _entityContext = context;
         }
-        [AllowAnonymous]
         [HttpGet]
         [Route("get_token")]
         public async Task<IActionResult> Post(AuthModel authModel)

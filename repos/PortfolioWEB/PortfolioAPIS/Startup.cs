@@ -19,6 +19,8 @@ using PortfolioAPIS.Services;
 using PortfolioAPIS.Mappers;
 using FluentValidation.AspNetCore;
 using CoreApi.Infrastructure.Extensions;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 
 namespace PortfolioAPIS
 {
@@ -37,6 +39,12 @@ namespace PortfolioAPIS
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IPostService, PostService>();
             services.AddScoped<ICommentService, CommentService>();
+            services.AddAuthentication(configureOptions: auth =>
+            {
+                auth.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                auth.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            }
+           ); ;
             services.AddControllers()
                .AddFluentValidation(fv => { fv.DisableDataAnnotationsValidation = true; });
             services.AddDbContext<EntityContext>(opt =>
@@ -62,10 +70,12 @@ namespace PortfolioAPIS
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
-            app.UseAuthentication();
+            
 
             app.UseEndpoints(endpoints =>
             {

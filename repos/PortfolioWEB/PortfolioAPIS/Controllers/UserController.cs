@@ -5,6 +5,7 @@ using PortfolioAPIS.Services;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Authorize = Microsoft.AspNetCore.Authorization;
 using System.Web.Http;
 using HttpDeleteAttribute = System.Web.Http.HttpDeleteAttribute;
 using HttpGetAttribute = System.Web.Http.HttpGetAttribute;
@@ -15,7 +16,7 @@ using RouteAttribute = Microsoft.AspNetCore.Mvc.RouteAttribute;
 namespace PortfolioAPIS.Controllers
 {
     
-    [Authorize]
+    [Authorize(Roles = "*")]
     [Route("api/[controller]")]
     [ApiController]
 
@@ -31,7 +32,6 @@ namespace PortfolioAPIS.Controllers
         }
         
         
-        [Authorize]
         [HttpGet]
         [Route("get_users")]
         

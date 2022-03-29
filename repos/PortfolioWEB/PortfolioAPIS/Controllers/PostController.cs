@@ -4,10 +4,13 @@ using PortfolioAPIS.Model;
 using PortfolioAPIS.Services;
 using System.Collections.Generic;
 using System.Linq;
+using Authorize = Microsoft.AspNetCore.Authorization;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace PortfolioAPIS.Controllers
 {
+    [Authorize(Roles = "*")]
     [Route("api/[controller]")]
     [ApiController]
 
@@ -19,7 +22,7 @@ namespace PortfolioAPIS.Controllers
             _postService = postService;
         }
 
-
+        [AllowAnonymous]
         [HttpGet]
         [Route("get_posts")]
         public IList<PostViewModel> GetPosts()
